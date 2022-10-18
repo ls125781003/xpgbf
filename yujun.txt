@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top97.jar",
+  "spider": "http://home.jundie.top:81/jar/top97.jar",
   "lives": [
     {
       "group": "redirect",
