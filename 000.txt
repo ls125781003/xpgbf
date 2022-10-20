@@ -9,7 +9,7 @@
     "sourceUrl": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/1.txt"
   },
   {
-    "sourceName": "派大星4号仓",
+    "sourceName": "派大星3号仓",
     "sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"
   }
   ]
