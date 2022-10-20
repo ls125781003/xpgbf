@@ -10,7 +10,7 @@
   },
   {
     "sourceName": "派大星3号仓",
-    "sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"
+    "sourceUrl": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/2.txt"
   }
   ]
 }
